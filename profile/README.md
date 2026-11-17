@@ -30,7 +30,7 @@
 
 你好，世界！这里是 **瓜大的小喵喵喵喵**！
 
-我们是一群来自 **西北工业大学（NWPU）** 的学生。
+我们是一群来自 **西北工业大学（NPU）** 的学生。
 
 因为学校被亲切地称为「西瓜大」，而我们又恰好是一群喜欢写代码、折腾技术、探索新事物的小猫咪，于是便有了这个名字。
 
@@ -127,7 +127,7 @@ while (neko.curiosity > 0) {
 
 Hello, World! Welcome to **Nekos in Watermelon University**!
 
-We are a group of students from **Northwestern Polytechnical University (NWPU)**, China.
+We are a group of students from **Northwestern Polytechnical University (NPU)**, China.
 
 Our university is affectionately nicknamed *Watermelon University*, and we're just a bunch of curious nekos who love coding, exploring technology, and building interesting things.
 
@@ -178,13 +178,13 @@ After all, **who says every line of code needs a serious purpose?**
 
 ```typescript
 interface Neko {
-  university: "NWPU";
+  university: "NPU";
   curiosity: number;
   happiness: number;
 }
 
 const neko: Neko = {
-  university: "NWPU",
+  university: "NPU",
   curiosity: Infinity,
   happiness: 100,
 };
@@ -230,7 +230,7 @@ We are **not officially affiliated with or endorsed by the university**. The pro
 
 ### 🍉 From Watermelon University, with ❤️ and 🐾
 
-**Born at NWPU. Built by curious nekos.**
+**Born at NPU. Built by curious nekos.**
 
 愿每一只小猫咪都能写出自己喜欢的代码。
 
