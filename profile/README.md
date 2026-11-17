@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="../assets/watermelon-neko-logo.png" width="110" alt="Nekos in Watermelon University Logo" />
+<img src="../assets/watermelon_neko_logo.png" width="110" alt="Nekos in Watermelon University Logo" />
 
 # 🍉 瓜大的小喵喵喵喵 🐈
 
@@ -10,7 +10,7 @@
 
 *A bunch of coding nekos from Watermelon University.*
 
-<img src="../assets/watermelon-neko-mascot.png" width="280" alt="Watermelon Neko Mascot" />
+<img src="../assets/watermelon_neko_mascot.png" width="280" alt="Watermelon Neko Mascot" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nekos_in_Watermelon_University-181717?style=flat-square&logo=github)](https://github.com/Nekos-in-Watermelon-University)
 ![Open Source](https://img.shields.io/badge/Open_Source-❤️-brightgreen?style=flat-square)
