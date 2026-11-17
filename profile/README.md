@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<img src="../assets/watermelon-neko-mascot.png" width="220" alt="西瓜喵" />
+<img src="../assets/watermelon_neko_mascot.png" width="220" alt="西瓜喵" />
 
 **西瓜喵 · Watermelon Neko**
 
@@ -143,7 +143,7 @@ And sometimes, we spend an entire weekend building something completely unnecess
 
 <div align="center">
 
-<img src="../assets/watermelon-neko-mascot.png" width="220" alt="Watermelon Neko" />
+<img src="../assets/watermelon_neko_mascot.png" width="220" alt="Watermelon Neko" />
 
 **Watermelon Neko · 西瓜喵**
 
@@ -226,7 +226,7 @@ We are **not officially affiliated with or endorsed by the university**. The pro
 
 <div align="center">
 
-<img src="../assets/watermelon-neko-logo.png" width="75" alt="Watermelon Neko Logo" />
+<img src="../assets/watermelon_neko_logo.png" width="75" alt="Watermelon Neko Logo" />
 
 ### 🍉 From Watermelon University, with ❤️ and 🐾
 
